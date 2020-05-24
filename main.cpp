@@ -13,7 +13,7 @@ using namespace std;
 #define ROUNDS 10
 #define STOPS 4
 #define BUS_LIMIT 50
-#define PASSENGERS 250
+#define PASSENGERS 90
 #define LOG_LVL 1
 #define BUS_DELAY 1
 
